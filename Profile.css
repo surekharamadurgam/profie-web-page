@@ -1,0 +1,71 @@
+body {
+  background-color: #eceff1;
+}
+#head {
+  box-sizing: border-box;
+  background-color: #fff;
+  padding: 20px;
+}
+#image {
+  background-color: #fff;
+}
+#img {
+  border-radius: 251px;
+  width: 5%;
+  height: 60px;
+}
+#right {
+  display: flex;
+  flex-direction: column;
+  float: right;
+  margin-right: 1000px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+#form {
+  background-color: #fff;
+}
+
+input[type="text"] {
+  width: 35%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+#username1 {
+  padding: 40px;
+}
+#dname1 {
+  padding: 40px;
+}
+#fname1 {
+  padding: 40px;
+}
+#lname1 {
+  padding: 89px;
+}
+#nlang1 {
+  padding: 20px;
+}
+#olang1 {
+  padding: 75px;
+}
+#bio {
+  width: 90%;
+  padding: 20px;
+}
+#bio1 {
+  padding: 4%;
+}
+#button {
+  background-color: green;
+  color: white;
+  margin-left: 1296px;
+  padding: 10px;
+  align-content: flex-end;
+}
+#start {
+  background-color: #fff;
+}
